@@ -1,0 +1,1 @@
+A simple weather app on React that utilises OpenWeather's API. For safety reasons I did not include my API Key. If you want to run this app, please create an account on OpenWeather's website and insert your API Key in the marked places in /services/WeatherService.tsx
